@@ -1,4 +1,4 @@
-### Hola, I'm Demon king 👋
+### Hola, I'm Demon king! 👋
 
 Here are some ideas to get you started:
 
