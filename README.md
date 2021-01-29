@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**demonking15543/demonking15543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, I'm Demon king 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on swaplus charging solution.
+- 🌱 I’m currently learning React and Advanced python.
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with react documentation
+- 💬 Ask me about  Python or any tech related stuff.
+- 📫 How to reach me: Gmail - demonking15543@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I never celebrate my success.
+
