@@ -1,8 +1,8 @@
 
-### Hola, I'm Demon king! 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+### Hola, I'm vijay Rajput! 👋
+<div id="header" align="center">
+  <img src="https://giffiles.alphacoders.com/347/34784.gif" width="600"/>
+</div>
 
 
 - 🔭 I’m currently working on swaplus charging solution.
@@ -13,7 +13,11 @@
 - 📫 How to reach me: Gmail - demonking15543@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: No Limit to Limited me...
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vijay-rajput-273b33197/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=demonking15543&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
