@@ -30,8 +30,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" title="Nextjs"  alt="Nextjs" width="80" height="80"/>&nbsp;
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demonking15543)](https://github.com/anuraghazra/github-readme-stats)
-
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,4 +46,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=demonking15543&theme=onedark)](https://github.com/demonking15543/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonking15543&layout=compact)](https://github.com/demonking15543/github-readme-stats)
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vijay777104)](https://github.com/demonking15543/github-readme-stats)
+
