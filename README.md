@@ -50,5 +50,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vijay777104)](https://github.com/demonking15543/github-readme-stats)
 
