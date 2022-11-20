@@ -46,7 +46,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonking15543&layout=compact)](https://github.com/demonking15543/github-readme-stats)
 
 
 
